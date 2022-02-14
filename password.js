@@ -13,9 +13,9 @@ reader.question("welcome to the password validator tool, what password would you
 	password = tokens[0];
 	
     if (password.length < 10){
-        console.log('you idiot, you need a longer password')
+        console.log('you fool, you need a longer password')
     }else if (password.length > 150){
-        console.log('( * ) ( * )')
+        console.log('( ಠ ͜ʖಠ)')
     }
     else{
         console.log("looks great bro")
